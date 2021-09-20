@@ -1,7 +1,7 @@
 package com.iit;
 
 /**
- * @author tibadiya nirbhay & muaaz patel
+ * @author tibadiya nirbhay 
  */
 public class Vehicle {
     public static int SYSTEMID = 0; //unique system id
